@@ -1,0 +1,5 @@
+New Line
+Trying to append the contents of the file
+Trying to append the contents of the file
+Trying to append the contents of the file
+Trying to append the contents of the file
